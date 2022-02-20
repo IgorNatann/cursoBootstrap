@@ -1,0 +1,30 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #4DA515;
+}
+
+.quem-somos {
+    background-color: #9700FF;
+    color:white;
+}
+
+.margin {
+    /* padding-top: 50px; Cria uma espaçamento dentro da mesma caixa, aumentando o tamanho da caixa na parte superior */
+    /* margin-top: 30px; Cria um espaçamento entre o elemento de cima e o elemento de baixo. */
+    padding-bottom: 50px; /*Cria espaçamento na parte de baixo do button */
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color:#C500FF;
+    color:white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+
+}
