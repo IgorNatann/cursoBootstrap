@@ -1,13 +1,14 @@
 body {
     font: 20px Arial, sans-serif;
+    color: white;
 }
 
-.navbar {
-    background-color: #4DA515;
+.navbar{
+    background-color: #6600FF;
 }
 
 .quem-somos {
-    background-color: #9700FF;
+    background-color: #9100FF;
     color:white;
 }
 
@@ -19,12 +20,16 @@ body {
 }
 
 .parceiros {
-    background-color:#C500FF;
+    background-color:#A500FF;
     color:white;
 }
 
-.bg-footer {
-    background-color: black;
+.servicos {
+    background-color: #D800FF;
     color: white;
+}
 
+.bg-footer {
+    background-color: #FF00DC;
+    color: white;
 }
